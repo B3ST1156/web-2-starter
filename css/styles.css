@@ -1,0 +1,18 @@
+/* Presentation  */ 
+/*My Awesome Styling*/
+
+h1 {
+  color: teal;
+  
+/*  Progressive enhancement & Graceful degridation  */
+
+} 
+
+.word1 {
+  color: teal;
+}
+
+body {
+    background: purple;
+}
+
