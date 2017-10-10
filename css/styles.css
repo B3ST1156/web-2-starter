@@ -1,18 +1,16 @@
-/* Presentation  */ 
+/* Presentation  */
 /*My Awesome Styling*/
-
+/* line 5, /Users/Joshuabest/Desktop/Web_2/web-2-starter/css/styles.scss */
 h1 {
   color: teal;
-  
-/*  Progressive enhancement & Graceful degridation  */
+  /*  Progressive enhancement & Graceful degridation  */ }
 
-} 
-
+/* line 12, /Users/Joshuabest/Desktop/Web_2/web-2-starter/css/styles.scss */
 .word1 {
-  color: teal;
-}
+  color: teal; }
 
+/* line 18, /Users/Joshuabest/Desktop/Web_2/web-2-starter/css/styles.scss */
 body {
-    background: purple;
-}
+  background: red; }
 
+/*# sourceMappingURL=styles.css.map */
